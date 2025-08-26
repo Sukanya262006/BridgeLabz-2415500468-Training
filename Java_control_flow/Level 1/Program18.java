@@ -1,0 +1,1 @@
+public class Program18 { public static void main(String[] args) { System.out.println("Multiplication table 6 to 9"); } }

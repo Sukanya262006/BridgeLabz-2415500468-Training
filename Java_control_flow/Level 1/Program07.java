@@ -1,0 +1,1 @@
+public class Program07 { public static void main(String[] args) { System.out.println("Spring season check"); } }
