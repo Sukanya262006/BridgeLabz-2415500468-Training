@@ -1,0 +1,1 @@
+// Magazine.java implementation here

@@ -1,0 +1,1 @@
+// Insurable.java implementation here
